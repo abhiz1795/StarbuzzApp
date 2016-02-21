@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StarbuzzApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="starbuzz_logo">App logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+</resources>
